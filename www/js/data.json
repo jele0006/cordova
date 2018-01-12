@@ -1,0 +1,60 @@
+{
+  "roles": [
+    {
+      "id":"1",
+      "name": "Assassin",
+      "type": "Damage Dealers",
+      "description": "Assassins slay your foes.",
+      "imgurl":"./img/assassin.png",
+      "characters": [
+        { "name": "Valeera", "imgurl":"./img/assassins/valeera.jpg" },
+        { "name": "Malthael", "imgurl":"./img/assassins/malthael.jpg" },
+        { "name": "Nova", "imgurl":"./img/assassins/nova.jpg" },
+        { "name": "Ragnaros", "imgurl":"./img/assassins/ragnaros.jpg" },
+        { "name": "Tychus", "imgurl":"./img/assassins/tychus.jpg" }
+      ]
+    },
+    {
+      "id":"2",
+      "name": "Warrior",
+      "type": "Tanks",
+      "description": "Warriors lead the charge into team fights.",
+      "imgurl":"./img/warrior.png",
+      "characters": [
+        { "name": "Garrosh", "imgurl":"./img/warriors/garrosh.jpg" },
+        { "name": "Dehaka", "imgurl":"./img/warriors/dehaka.jpg" },
+        { "name": "Johanna", "imgurl":"./img/warriors/johanna.jpg" },
+        { "name": "Leoric", "imgurl":"./img/warriors/leoric.jpg" },
+        { "name": "Tyrael", "imgurl":"./img/warriors/tyrael.jpg" }
+      ]
+    },
+    {
+      "id":"3",
+      "name": "Support",
+      "type": "Healers",
+      "description": "Support are the team backbone.",
+      "imgurl":"./img/support.png",
+      "characters": [
+        { "name": "Alexstraza", "imgurl":"./img/supports/alexstraza.jpg" },
+        { "name": "Auriel", "imgurl":"./img/supports/auriel.jpg" },
+        { "name": "Lucio", "imgurl":"./img/supports/lucio.jpg" },
+        { "name": "Rehgar", "imgurl":"./img/supports/rehgar.jpg" },
+        { "name": "Uther", "imgurl":"./img/supports/uther.jpg" }
+      ]
+    },
+    {
+      "id":"4",
+      "name": "Specialist",
+      "type": "Wildcards",
+      "description": "Specialists take care of the dirty work.",
+      "imgurl":"./img/specialist.png",
+      "characters": [
+        { "name": "Medivh", "imgurl":"./img/specialists/medivh.jpg" },
+        { "name": "Murky", "imgurl":"./img/specialists/murky.jpg" },
+        { "name": "Sylvanas", "imgurl":"./img/specialists/sylvanas.jpg" },
+        { "name": "Xul", "imgurl":"./img/specialists/xul.jpg" },
+        { "name": "Zagara", "imgurl":"./img/specialists/zagara.jpg" }
+      ]
+    }
+  ]
+}
