@@ -15,7 +15,7 @@ html{
 }
 body{
     min-height: 100vh;
-    background-image: url("/img/hots_bg.jpg");
+    background-image: url("../img/hots_bg.jpg");
     background-color: #000;
     background-size:cover;
 }
@@ -44,7 +44,7 @@ body{
     height: 4.3rem;
     padding: 0 2rem;
     border-bottom: 0.2rem solid #111;
-    background-image: url("/img/logo-heroes.png");
+    background-image: url("../img/logo-heroes.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
